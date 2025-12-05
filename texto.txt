@@ -1,0 +1,3 @@
+print("hola xd")
+helloworld("print")
+za warudo
